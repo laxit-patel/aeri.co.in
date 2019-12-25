@@ -27,7 +27,7 @@
 	<div class="container">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle " data-toggle="collapse">
+			<button type="button" class="navbar-toggle" data-toggle="collapse">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
@@ -114,7 +114,7 @@
 				</li>
 
 				<li class="button-container">
-					<a href="https://api.whatsapp.com/send?phone=+919824049466&text=Inquiry from aeri.co.in" class="btn btn-round btn-success" >
+					<a href="#pablo" class="btn btn-round btn-success" >
 	                                    <i class="fa fa-whatsapp"></i>Whatsapp
 	                                <div class="ripple-container"></div></a>
 				</li>
@@ -292,7 +292,7 @@
 					<div class="col-md-12 ">
 						<div class="text-center">
 							<h3 class="title">If You Have Any kind of Query Regarding <br><b class="">TESTING</b> or <b >CONSULTATION</b> <br>don’t hesitate to contact.</h3>
-							<a href="contact-us.html" class="btn btn-rose btn-round">Contact Us</a>
+							<a class="btn btn-rose btn-round">Enquiry</a>
 						</div>
 						
 						
@@ -387,10 +387,10 @@
 		
 	<!--     *********    TESTIMONIALS 2     *********      -->
 
-	<div class="testimonials-2 " style="background-image: url('assets/img/AERI/bg/handshake1.jpg');background-size:cover;background-position:center;background-blend-mode: darken;">
+	<div class="testimonials-2 header-filter" style="background-image: url('assets/img/AERI/bg-4.webp');">
 
 		<div class="container-fluid">
-			<h2 class="title text-center " style="color:white;">Our Clients</h2>
+			<h2 class="title text-center">Our Clients</h2>
 			<div class="row">
 
 				<div id="carousel-testimonial" class="carousel slide" data-ride="carousel">
@@ -474,59 +474,94 @@
 
 	<!--     *********    END TESTIMONIALS 2      *********      -->
 
-	
-	<div class="section text-center">
-		<h2 class="title">Have a Doubt? Feel Free To Send an <b class="text-rose">Inquiry</b></h2>
-	</div>
-		<!--contact us starts-->
-	
-		<div class="about-contact ">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					
-					<h4 class="text-center description">you can submit an Enquiry here and We Will reach back to you with ASAP.</h4>
-					<form class="contact-form">
-						<div class="row">
-							<div class="col-md-4">
-								<div class="form-group">
-									<label class="control-label">Your Name</label>
-									<input type="email" class="form-control">
-								</div>
-							</div>
-							<div class="col-md-4">
-								<div class="form-group">
-									<label class="control-label">Your Phone Number</label>
-									<input type="text" class="form-control">
-								</div>
-							</div>
-							<div class="col-md-4">
-								<div class="form-group">
-									<label class="control-label">Type</label>
-									<select class="select form-control" placeholder="Speciality">
-									  <option value="1">I'm a Contractor</option>
-									  <option value="2">I'm a Engineer</option>
-									  <option value="3">I'm a Student</option>
-									</select>
-								</div>
-							</div>
-						</div>
 
-						<div class="row">
-							<div class="col-md-4 col-md-offset-4 text-center">
-								<button class="btn btn-block btn-rose btn-round">
-									Let's talk
-								</button>
+		<!--contact us starts-->
+		<div class="contactus-1   section-image" style="background-image: url('assets/img/AERI/bg-4.webp');">
+
+			<div class="container ">
+				<div class="row">
+					<div class="col-md-5">
+						<h2 class="title">Get in Touch</h2>
+						
+						<div class="info info-horizontal">
+							<div class="icon icon-primary">
+								<i class="material-icons text-rose">pin_drop</i>
+							</div>
+							<div class="description">
+								<h4 class="info-title">Find us at the office</h4>
+								<address class="h3"> 
+									G-4, Ground Floor, <br>New York Tower “A”, Thaltej <br>
+									Ahmedabad – 380054 Gujarat
+								</address>
 							</div>
 						</div>
-					</form>
+						<div class="info info-horizontal">
+							<div class="icon icon-primary">
+								<i class="material-icons text-rose">phone</i>
+							</div>
+							<div class="description">
+								<h4 class="info-title">Give us a ring</h4>
+								<p class="h3"> Divya Anandjiwala<br>
+									+91 9824 049 466<br>
+									Mon - Fri, 8:00-22:00
+								</p>
+							</div>
+						</div>
+	
+					</div>
+					<div class="col-md-5 col-md-offset-2">
+						<div class="card card-contact">
+							<form role="form" id="contact-form" method="post">
+								<div class="header header-raised header-rose text-center">
+									<h4 class="card-title">Contact Us</h4>
+								</div>
+								<div class="card-content">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="form-group label-floating is-empty">
+												<label class="control-label">First name</label>
+												<input type="text" name="name" class="form-control">
+											<span class="material-input"></span></div>
+										</div>
+										<div class="col-md-6">
+											<div class="form-group label-floating is-empty">
+												<label class="control-label">Last name</label>
+												<input type="text" name="name" class="form-control">
+											<span class="material-input"></span></div>
+										</div>
+									</div>
+									<div class="form-group label-floating is-empty">
+										<label class="control-label">Email address</label>
+										<input type="email" name="email" class="form-control">
+									<span class="material-input"></span></div>
+									<div class="form-group label-floating is-empty">
+										<label class="control-label">Your message</label>
+										<textarea name="message" class="form-control" id="message" rows="6"></textarea>
+									<span class="material-input"></span></div>
+	
+									<div class="row">
+										<div class="col-md-6">
+											<div class="checkbox">
+												<label>
+													<input type="checkbox" name="optionsCheckboxes"><span class="checkbox-material"><span class="check"></span></span>
+													I'm not a robot
+												</label>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<button type="submit" class="btn btn-rose pull-right">Send Message</button>
+										</div>
+									</div>
+								</div>
+	
+							</form>
+						</div>
+					</div>
 				</div>
 			</div>
-
 		</div>
 		<!-- contact us ends -->
-		
 
-		<img class=" img img-responsive roundy" style="width: 100%; margin-top: 10%;" src="./assets/img/AERI/bg/site-blue.png">
 	</div>
 
 	
