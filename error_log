@@ -1,0 +1,15 @@
+[22-Oct-2019 00:14:24 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aerico/public_html/email.php on line 6
+[22-Oct-2019 00:14:24 Asia/Kolkata] PHP Notice:  Undefined index: telephone in /home/aerico/public_html/email.php on line 7
+[22-Oct-2019 00:14:24 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/aerico/public_html/email.php on line 8
+[22-Oct-2019 00:14:24 Asia/Kolkata] PHP Notice:  Undefined index: service in /home/aerico/public_html/email.php on line 9
+[22-Oct-2019 00:14:24 Asia/Kolkata] PHP Notice:  Undefined index: message in /home/aerico/public_html/email.php on line 10
+[25-Oct-2019 07:26:48 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aerico/public_html/email.php on line 6
+[25-Oct-2019 07:26:48 Asia/Kolkata] PHP Notice:  Undefined index: telephone in /home/aerico/public_html/email.php on line 7
+[25-Oct-2019 07:26:48 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/aerico/public_html/email.php on line 8
+[25-Oct-2019 07:26:48 Asia/Kolkata] PHP Notice:  Undefined index: service in /home/aerico/public_html/email.php on line 9
+[25-Oct-2019 07:26:48 Asia/Kolkata] PHP Notice:  Undefined index: message in /home/aerico/public_html/email.php on line 10
+[02-Nov-2019 18:57:33 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aerico/public_html/email.php on line 6
+[02-Nov-2019 18:57:33 Asia/Kolkata] PHP Notice:  Undefined index: telephone in /home/aerico/public_html/email.php on line 7
+[02-Nov-2019 18:57:33 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/aerico/public_html/email.php on line 8
+[02-Nov-2019 18:57:33 Asia/Kolkata] PHP Notice:  Undefined index: service in /home/aerico/public_html/email.php on line 9
+[02-Nov-2019 18:57:33 Asia/Kolkata] PHP Notice:  Undefined index: message in /home/aerico/public_html/email.php on line 10

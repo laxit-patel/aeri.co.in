@@ -1,4 +1,6 @@
-<!doctype html>
+
+    <!--<meta http-equiv="Refresh" content="7; url=index.html" /> -->
+    <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
@@ -523,6 +525,8 @@
 			</div>
 
 		</div>
+
+		
 		<!-- contact us ends -->
 		
 		<!-- ending fading effect of image -->
