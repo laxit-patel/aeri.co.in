@@ -1,5 +1,5 @@
 
-    <meta http-equiv="Refresh" content="3; url=instruments.html" />
+
     <!doctype html>
 <html lang="en">
 <head>
@@ -22,7 +22,7 @@
     <link href="assets/css/material-kit.css?v=1.2.1" rel="stylesheet"/>
 </head>
 
-<body style="background-color:white">
+<body>
 
 <div class="wrapper">
 	
